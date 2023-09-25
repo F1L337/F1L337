@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on a private project (CS2 stuff)
 - 🌱 I’m currently learning HTML, CSS, JS, PHP and Symfony
-- ⚡ SysAdmin Main
+- ⚡ SysAdmin, Driver and CS2 Main
+- 📫 Catch me on [Steam](https://steamcommunity.com/id/F1L337)
 <!--
 **F1L337/F1L337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
