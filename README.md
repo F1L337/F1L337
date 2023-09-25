@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a private project (CS2 stuff)
+- 🌱 I’m currently learning HTML, CSS, JS, PHP and Symfony
+- ⚡ SysAdmin Main
 <!--
 **F1L337/F1L337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
