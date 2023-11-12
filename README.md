@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a private project (CS2 stuff)
-- 🌱 I’m currently learning HTML, CSS, JS, PHP and Symfony
+- 🌱 I’m currently learning how to be the Rizzard of Oz
 - ⚡ SysAdmin, Driver and CS2 Main
 - 📫 Catch me on [Steam](https://steamcommunity.com/id/F1L337)
 <!--
