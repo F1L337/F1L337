@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a private project (CS2 stuff)
+- 🔭 I’m currently working on a Raspberry Pi project
 - 🌱 I’m currently learning how to be the Rizzard of Oz
 - ⚡ SysAdmin, Driver and CS2 Main
 - 📫 Catch me on [Steam](https://steamcommunity.com/id/F1L337)
