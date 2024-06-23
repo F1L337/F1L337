@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Raspberry Pi project
+- 🔭 I’m currently working on some stuff
 - 🌱 I’m currently learning how to be the Rizzard of Oz
-- ⚡ SysAdmin, Driver and CS2 Main
+- ⚡ SysAdmin, Car Driver and CS2 Main
 - 📫 Catch me on [Steam](https://steamcommunity.com/id/F1L337)
 <!--
 **F1L337/F1L337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
