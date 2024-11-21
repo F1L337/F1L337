@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on some stuff
-- 🌱 I’m currently learning how to be the Rizzard of Oz
+- 🌱 I’m currently learning how to git gud
 - ⚡ SysAdmin, Car Driver and CS2 Main
 - 📫 Catch me on [Steam](https://steamcommunity.com/id/F1L337)
 <!--
